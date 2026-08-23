@@ -11,7 +11,7 @@ public:
         while (start < end) {
 
             int mid = start + (end - start) / 2;
-            if(arr[mid] == target)
+            if(arr[mid] == target)        //
             {
                 cout<<mid<<endl;
                 break;
