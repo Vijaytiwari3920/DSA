@@ -9,7 +9,7 @@ public:
     ListNode(int val){
         this -> val = val;
         this -> next = NULL;
-    }
+    }                            //ok
 };
 
 void insertBegining(ListNode* &Head, int  x){
