@@ -3,4 +3,4 @@
 2. Arr
 3. Link list
 4. Stack
-5. Qu
+5. Que
