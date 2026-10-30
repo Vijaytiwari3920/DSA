@@ -1,6 +1,6 @@
 ## This is DSA by Using CPP.
 1. DSA
-2. Arr
+2. Arra
 3. Link list
 4. Stack
 5. Queue
