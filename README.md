@@ -4,4 +4,4 @@
 3. Link list
 4. Stack
 5. Queue
-6.
+6. D
